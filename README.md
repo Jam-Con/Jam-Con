@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jam-Con
+- 👀 I’m interested in cooking, exercise, fishing and dogs :)
+- 🌱 I’m currently learning how to become a self taught programmer, it seems so far away at this moment.
+- 💞️ I’m looking to collaborate on anything really, am just signing up to this to meet people who are trying to walk or have walked the same path to be confident in programming. 
